@@ -13,7 +13,9 @@ http://jerasure.org/jerasure/jerasure (Revision 2.0)
 https://github.com/nlohmann/json (version 3.10.4)
 https://download.pytorch.org/libtorch/lts/1.8/cpu/libtorch-cxx11-abi-shared-with-deps-1.8.2%2Bcpu.zip 
 https://github.com/gerddie/maxflow (version 3.04)
-https://github.com/microsoft/ringmaster (Version 53c04ee)
+https://github.com/microsoft/ringmaster (Version acf853a)
+https://github.com/ravinet/mahimahi (Version 0bd1216)
+
 ```
 
 ### Dependencies
