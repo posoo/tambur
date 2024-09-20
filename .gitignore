@@ -1,0 +1,61 @@
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.la
+*.slo
+*.d
+*.gch
+*.pch
+
+# Compiled Libraries
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Fortran module files
+*.mod
+*.smod
+
+# Autotools generated files
+Makefile
+Makefile.in
+.deps/
+*.Po
+autom4te.cache/
+aclocal.m4
+config.cache
+config.log
+config.status
+config.sub
+configure
+install-sh
+missing
+stamp-h1
+mdate-sh
+py-compile
+test-driver
+ylwrap
+ltmain.sh
+texinfo.tex
+depcomp
+config.h
+config.h.in
+compile
+
+# Miscellaneous
+*.dirstamp
+third_party/libtorch/
+src/ringmaster_app/video_sender
+src/ringmaster_app/video_receiver
+
+# OS-specific files
+.DS_Store
+Thumbs.db
